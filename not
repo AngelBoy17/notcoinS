@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://notco.in" />
+<meta property="og:site_name" content="notco.in">
+<meta property="og:title" content="Notcoin" />
+<meta property="og:image" content="https://cdn.joincommunity.xyz/notcoin/NOTsmall.png" />
+<meta property="og:description" content="Probably nothing" />
+<meta property="og:locale" content="en_GB" />
+<link rel="shortcut icon" type="image/png" href="https://cdn.joincommunity.xyz/notcoin/NOTsmall.png" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1" />
+<title>Notcoin</title>
+<style>
+    html, body {
+      height: 100%;
+      background-color: #000;
+      color: #fff;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    .hidden-preload {
+      display: none;
+    }
+
+    #root {
+      height: 100%;
+    }
+  </style>
+
+<script type="module" crossorigin src="/assets/index-622dcd39.js"></script>
+<link rel="modulepreload" crossorigin href="/assets/vendor-c1a8c855.js">
+<link rel="stylesheet" href="/assets/index-57765492.css">
+</head>
+<body data-mode="dark">
+<div id="root"></div>
+<script src="https://telegram.org/js/telegram-web-app.js" onload="window.Telegram.WebApp.expand()"></script>
+<script defer data-domain="farm.joincommunity.xyz" src="https://plausible.joincommunity.xyz/js/script.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;4feb6137b96446c3831912508fe222e8&quot;}"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8aa613cc4cbe3566',t:'MTcyMjE4MjM3Ni4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
